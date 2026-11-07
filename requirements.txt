@@ -1,0 +1,12 @@
+# Core pipeline dependencies
+torch
+transformers
+huggingface_hub
+openai
+pandas
+tqdm
+
+# Optional, only if running Together AI or Anthropic models
+# (not part of the final evaluated set):
+# together
+# anthropic
